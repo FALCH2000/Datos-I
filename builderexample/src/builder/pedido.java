@@ -16,6 +16,8 @@ public class pedido {
 		crear2.hacer_emparedado();
 		System.out.print(crear2.get_emparedado());
 		
+		//Ok aquí voy a comentar algo solo porque me parece importante 
+		//resaltar que hay que hacer push
 
 	}
 
